@@ -1,5 +1,8 @@
 # Week2-Submission
 
+https://ksubi1x.github.io/Week2-Submission/
+
+
 The purpose of this project was to make my own portfolio type of website to match the template that was given to us.
 As you can see though, what I made doesn't match what we were given to copy.
 I might get failed for that though but I just decided to take my own route and see what I could do on my own, 
